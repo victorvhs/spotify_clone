@@ -67,7 +67,7 @@ nav.navbar-transparente{
    padding: 10px 35px;
    margin: 0px 15px;
    text-transform: uppercase;
-   transition: background 0.4s, color 0.4s; 
+   transition: background 0.4s, color 0.4s;
 
  }
 .btn-roxo{
@@ -83,6 +83,13 @@ nav.navbar-transparente{
 .btn-branco:hover{
   background-color: white;
   color: black;
+}
+
+/*-- Secao servicos --*/
+#servicos{
+  background: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 /* =============== Tipografia ====================== */
 h1{
